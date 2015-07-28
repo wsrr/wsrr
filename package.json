@@ -1,0 +1,14 @@
+{
+  "name": "wsrr",
+  "version": "0.0.3",
+  "description": "WSRR library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Seager <seager@uk.ibm.com> (http://www.ibm.com)",
+  "license": "Apache2",
+  "dependencies": {
+    "bunyan": "1.4.0"
+  }
+}
