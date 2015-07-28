@@ -6,8 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wsrr/wsrr.git"
+  },
   "author": "David Seager <seager@uk.ibm.com> (http://www.ibm.com)",
-  "license": "Apache2",
+  "licenses": [
+    {
+      "type": "Apache2",
+      "url": "https://github.com/wsrr/wsrr/blob/master/license.txt"
+    }
+  ],
+
   "dependencies": {
     "bunyan": "1.4.0"
   }
